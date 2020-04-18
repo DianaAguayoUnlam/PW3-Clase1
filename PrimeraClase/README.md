@@ -18,9 +18,3 @@ En esta clase vimos:
 		3. Vimos como funciona el archivo /App_Start/**routeconfig.cs**
 		4. Creamos un nuevo action Duplicar(int id) recibiendo por parametro un número (agregando en la url del browser /Home/Duplicar/90) y devolviendo su valor multiplicado por 2.
 		5. Creamos su correspondiente vista en /Views/Home/Duplicar.cshtml escribiendo ambos valores utilizando ViewBag
-		
-# Como Ejecutar
-1. Abrir el archivo PrimeraClase1.sln con el Visual Studio
-2. Click derecho en la solución, Restaurar paquetes de Nuget
-3. Click derecho en el proyecto que se desea ejecutar (PrimeraClase1 o AplicacionWeb), Establecer como proyecto de Inicio
-4. F5
