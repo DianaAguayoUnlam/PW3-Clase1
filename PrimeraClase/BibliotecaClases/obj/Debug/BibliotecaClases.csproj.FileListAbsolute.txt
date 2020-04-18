@@ -1,0 +1,6 @@
+D:\DIANA\proyectosNET\PrimeraClase\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+D:\DIANA\proyectosNET\PrimeraClase\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+D:\DIANA\proyectosNET\PrimeraClase\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+D:\DIANA\proyectosNET\PrimeraClase\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+D:\DIANA\proyectosNET\PrimeraClase\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+D:\DIANA\proyectosNET\PrimeraClase\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

@@ -1,0 +1,10 @@
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe.config
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.pdb
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.csprojAssemblyReference.cache
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.csproj.CoreCompileInputs.cache
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.exe
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.pdb
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\bin\Debug\BibliotecaClases.dll
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\bin\Debug\BibliotecaClases.pdb
+D:\DIANA\proyectosNET\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.csproj.CopyComplete
