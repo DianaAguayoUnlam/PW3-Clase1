@@ -1,4 +1,4 @@
-# Primera Clase de Práctica
+﻿# Primera Clase de Práctica
 
 En esta clase vimos:
 1. Como usar el **Visual Studio 2019 Community**.
@@ -18,3 +18,4 @@ En esta clase vimos:
 		3. Vimos como funciona el archivo /App_Start/**routeconfig.cs**
 		4. Creamos un nuevo action Duplicar(int id) recibiendo por parametro un número (agregando en la url del browser /Home/Duplicar/90) y devolviendo su valor multiplicado por 2.
 		5. Creamos su correspondiente vista en /Views/Home/Duplicar.cshtml escribiendo ambos valores utilizando ViewBag
+		
